@@ -19,6 +19,7 @@ Run `npm install` to install all dependencies.
 
 ## Usage
 Run `node index.js` to start the application.
+Watch the following video: https://drive.google.com/file/d/1TgdPWzbZD5clllU733tlWy6Mc-fWSlm2/view
 
 ## License
 This project is licensed under the MIT license.
