@@ -1,8 +1,10 @@
 
-# ooooooo
+# Provides a brief overview of what the project does.
+
+![Badge](https://img.shields.io/badge/any-text-you-like-blue)
 
 ## Description
-sdmn,zvmxvnx,mvn
+Lists the sections of the README with links to each section.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -13,19 +15,19 @@ sdmn,zvmxvnx,mvn
 - [Questions](#questions)
 
 ## Installation
-dsdfvsdfgsdfvsdfgsd
+Provides instructions on how to clone the repository and install dependencies.
 
 ## Usage
-dsfgsdfsdfgfsgsd
+Explains how to run the application and what to expect.
 
 ## License
 This project is licensed under the MIT license.
 
 ## Contributing
-dsfbsfdbssdfbsdfbs
+Provides guidelines for contributing to the project.
 
 ## Tests
-zxcvvaxcvzxcv<cxv
+Instructions on how to run tests for the project.
 
 ## Questions
 For any questions, please contact me with the information below:

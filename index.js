@@ -67,6 +67,8 @@ function generateReadme(answers) {
   return `
 # ${answers.title}
 
+![Badge](https://img.shields.io/badge/any-text-you-like-blue)
+
 ## Description
 ${answers.description}
 
