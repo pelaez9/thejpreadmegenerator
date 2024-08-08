@@ -21,7 +21,7 @@ To install this project, clone the repository and run `npm install` to install t
 To use the application, run node index.js in your terminal. Follow the prompts to enter the necessary information about your project. Once all prompts are answered, a README.md file will be generated in the working directory.
 'node index.js'
 For more information, please watch the following VIDEO:
-https://drive.google.com/file/d/13Dy7ErnNVl07zxCcc4d0wKITzBkRjYBU/view
+[https://drive.google.com/file/d/13Dy7ErnNVl07zxCcc4d0wKITzBkRjYBU/view](https://watch.screencastify.com/v/sEfZthvSgCkRsj8OWAQ3)
 
 ## License
 This project is licensed under the MIT license.
