@@ -1,5 +1,5 @@
 
-# ooooooo
+# The JP ReadMe generator
 
 ## Description
 This project is a command-line application that dynamically generates a professional README.md file from user input using the Inquirer package. It simplifies the process of creating a high-quality README for new projects.
